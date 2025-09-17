@@ -2,3 +2,4 @@ streamlit
 serpapi
 agno
 google-generativeai
+google-genai
