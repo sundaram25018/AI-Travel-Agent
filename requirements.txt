@@ -1,0 +1,4 @@
+streamlit
+serpapi
+agno
+google-generativeai
